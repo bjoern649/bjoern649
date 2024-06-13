@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bjoernhari
+- 👋 Hi, I’m @bjoern649
 - 👀 I’m interested in programming, servers, IT stuff
 - 🌱 I’m currently learning PowerShell
 - 
