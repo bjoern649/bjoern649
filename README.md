@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bjoernhari
-- 👀 I’m interested in programming, servers, it stuff
+- 👀 I’m interested in programming, servers, IT stuff
 - 🌱 I’m currently learning PowerShell
 - 
 <!---
